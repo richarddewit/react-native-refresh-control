@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "58B511DA1A9E6C8500147676"
-               BuildableName = "libRCTRefreshControl.a"
-               BlueprintName = "RCTRefreshControl"
-               ReferencedContainer = "container:RCTRefreshControl.xcodeproj">
+               BuildableName = "libRNRefreshControl.a"
+               BlueprintName = "RNRefreshControl"
+               ReferencedContainer = "container:RNRefreshControl.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "58B511DA1A9E6C8500147676"
-            BuildableName = "libRCTRefreshControl.a"
-            BlueprintName = "RCTRefreshControl"
-            ReferencedContainer = "container:RCTRefreshControl.xcodeproj">
+            BuildableName = "libRNRefreshControl.a"
+            BlueprintName = "RNRefreshControl"
+            ReferencedContainer = "container:RNRefreshControl.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -61,9 +61,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "58B511DA1A9E6C8500147676"
-            BuildableName = "libRCTRefreshControl.a"
-            BlueprintName = "RCTRefreshControl"
-            ReferencedContainer = "container:RCTRefreshControl.xcodeproj">
+            BuildableName = "libRNRefreshControl.a"
+            BlueprintName = "RNRefreshControl"
+            ReferencedContainer = "container:RNRefreshControl.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
