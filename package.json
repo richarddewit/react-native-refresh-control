@@ -13,9 +13,9 @@
   "main": "index.ios.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:richarddewit/RNRefreshControl.git"
+    "url": "git@github.com:richarddewit/react-native-refresh-control.git"
   },
-  "author": "Richard de Wit",
+  "author": "Shuangzuan",
   "maintainers": [
     {
       "name": "richarddewit"
