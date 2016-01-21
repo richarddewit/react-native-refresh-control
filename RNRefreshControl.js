@@ -8,7 +8,7 @@ var React = require('react-native');
 var {
   DeviceEventEmitter,
   NativeModules: {
-    RefreshControl,
+    RNRefreshControl: RefreshControl,
   },
   processColor
 } = React;
@@ -34,7 +34,7 @@ var RNRefreshControl = {
       tintColor: processColor(configs.tintColor),
       activityIndicatorViewColor: processColor(configs.activityIndicatorViewColor)
     };
-    
+
     RefreshControl.configure(nodeHandle, options, (error) => {
       if (!error) {
         callbacks[nodeHandle] = callback;
